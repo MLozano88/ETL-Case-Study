@@ -10,7 +10,7 @@
     * "A data set concerning the race, religion, age, and other demographic details of all Oscar winners since 1928."
 
 ## Summary and Motivation:
-As a group, we were fascinated by movies so we decided to find  datasets pertaining to this topic. With the datasets we collected, we wanted to find the most popular movies on Netflix (in terms of vote average and count) from TMDB. This will determine which movies you can watch on Netflix have the highest vote average according to TMDB. We also used the Academy Awards Demographics dataset to find the vote average for each Oscar-winning movie. 
+As a group, we were fascinated by movies so we decided to find  datasets pertaining to this topic. With the datasets we collected, we wanted to find the most popular movies on Netflix (in terms of vote average and count) from TMDB. This will determine which movies you can watch on Netflix that have the highest vote average according to TMDB. We also used the Academy Awards Demographics dataset and the TMDB dataset to find the vote average for each Oscar-winning movie. 
 
 ## Folders Directory
 - [Transformation Center](https://github.com/RH-cmd/ETL-Case-Study/tree/main/Transformation%20Center) includes all jupyter notebooks and csvs used for exploring, cleaning, and loading the data for each dataset separately 
